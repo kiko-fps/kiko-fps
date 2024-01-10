@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming cybersecurity projects.
 - 📫 How to reach me kikacho333@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Valorant College esport member.
+- ⚡ Fun fact: Valorant College Esport member.
 <!---
 kiko-fps/kiko-fps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
